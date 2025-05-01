@@ -91,7 +91,7 @@
 
 ## 🤝 Contributors
 
-Made with 💙 by [@abizer007](#) and [@aliasgarsogiawala](#)
+Made with 💙 by [@abizer007](#) 
 
 ---
 
